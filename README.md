@@ -4,7 +4,7 @@ This Todo App is a simple task management application that allows users to add, 
 
 # Live Demo
 
-Check out the live demo: Todo App Live Demo
+Check out the live demo: [Todo App Live Demo](https://todo-three-olive.vercel.app/)
 
 # Features
 Display a list of existing tasks showing the task name and completion status.
